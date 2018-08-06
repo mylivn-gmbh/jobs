@@ -4,7 +4,7 @@ Are you looking to improve your skills and gain valuable experience in order to 
 
 Mylivn is an innovative startup company located in central Munich. We are developing a new social lifestyle application unique to any other application available in the market. We are searching for a motivated person to help support the development of this project.
 
-## Your roles:
+## Your roles
 
 - Build new features and improve existing ones for our iPhone and app.
 - Collaborate with a team around you and help in its development processes early on.
@@ -12,7 +12,7 @@ Mylivn is an innovative startup company located in central Munich. We are develo
 - A chance to enrich our team with your knowledge and your innovative ideas.
 - You continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
 
-## Your profile:
+## Your profile
 
 - 4+ years of iOS development experience.
 - You have published one or more iOS apps in the App Store.
@@ -28,11 +28,11 @@ Mylivn is an innovative startup company located in central Munich. We are develo
 - You always do your best to deliver your code on time and achieve the best quality and you are never satisfied until your task is done.
 - You prefer reading and understanding documentation rather than the first upvoted answer on Stack Overflow.
 
-## Nice to have:
+## Nice to have
 
 - Experience with reactive patterns. 
 
-## What we offer:
+## What we offer
 
 - A crucial role in a highly motivated and talented team.
 - The opportunity to work on the latest iOS features.

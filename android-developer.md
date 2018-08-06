@@ -4,7 +4,7 @@ Are you looking to improve your skills and gain valuable experience in order to 
 
 Mylivn is an innovative startup company located in central Munich. We are developing a new social lifestyle application unique to any other application available in the market. We are searching for a motivated person to help support the development of this project.
 
-### Your roles:
+### Your roles
 
 - Build new features and improve existing ones for our Android app.
 - Collaborate with a team around you and help in development processes early on.
@@ -13,7 +13,7 @@ Mylivn is an innovative startup company located in central Munich. We are develo
 - Continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
 
 
-### Your profile:
+### Your profile
 
 - 4+ years of Android development experience.
 - You have published one or more Android apps in the play store.
@@ -29,14 +29,14 @@ Mylivn is an innovative startup company located in central Munich. We are develo
 - You prefer reading and understanding documentation rather than the first upvoted answer on Stack Overflow.
 
 
-### Nice to have:
+### Nice to have
 
 - Hands on experience with processing images, adding effects and user input.
 - You have implemented complex data flows, consistency negotiation protocols with backend and asynchronous messaging communication.
 - You were curious enough to try Kotlin.
 
 
-### What we offer:
+### What we offer
 
 - A crucial role in a highly motivated and talented team.
 - The opportunity to work on the latest Android features.

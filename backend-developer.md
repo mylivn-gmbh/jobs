@@ -4,7 +4,7 @@ Are you looking to improve your skills and gain valuable experience in order to 
 
 Mylivn is an innovative startup company located in central Munich. We are developing a new social lifestyle application unique to any other application available in the market. We are searching for a motivated person to help support the development of this project.
 
-## Our stack:
+## Our stack
 
 Our backend system represents a microservice architecture with strict domain boundaries between services. We use REST API for external and direct internal communications. Also, we use messaging to pass events between services. All our services are deployed as Docker containers. 
 
@@ -19,7 +19,7 @@ Technologies we use in backend:
 - CI & CD: GitLab + Bash & Python
 
 
-## Your roles:
+## Your roles
 
 - Build new features and improve existing ones for our modern and scalable backend system.
 - Become an owner of a set of microservices, be responsible for a given business and technical domain, suggest ways to improve performance and quality of your services, participate in cross-service integrations processes.
@@ -28,7 +28,7 @@ Technologies we use in backend:
 - A chance to enrich our team with your knowledge and your innovative ideas.
 - You continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
 
-## Your profile:
+## Your profile
 
 - 5+ years of Java/Scala development experience.
 - 2+ years of pure Scala development experience.
@@ -43,13 +43,13 @@ Technologies we use in backend:
 - You always do your best to deliver your code on time and achieve the best quality and you are never satisfied until your task is done.
 - You prefer reading and understanding documentation rather than the first upvoted answer on Stack Overflow.
 
-## Nice to have:
+## Nice to have
 
 - Hands-on experience with Apache Kafka. You understand its architecture and guarantees.
 - Experience with Play Framework, Akka.
 - Knowledge of Scala FP libraries like Scalaz, Cats, Monix. Understanding about effects management and referential transparency.
 
-## What we offer:
+## What we offer
 
 - A crucial role in a highly motivated and talented team.
 - The opportunity to work on the latest iOS features.
