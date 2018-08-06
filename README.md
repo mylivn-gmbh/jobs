@@ -15,6 +15,7 @@ The secret to our success is our team’s ability to be creative, have a clear m
 
 - [iOS Developer](https://github.com/mylivn-gmbh/jobs/blob/master/ios-developer.md)
 - [Android Developer](https://github.com/mylivn-gmbh/jobs/blob/master/android-developer.md)
+- [Backend Developer](https://github.com/mylivn-gmbh/jobs/blob/master/backend-developer.md)
 
 
 ### Benefits
