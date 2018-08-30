@@ -52,7 +52,6 @@ Technologies we use in backend:
 ## What we offer
 
 - A crucial role in a highly motivated and talented team.
-- The opportunity to work on the latest iOS features.
 - Flat team structure and open communication.
 - MacBook Pro 2016+ as your working station.
 - Multicultural and English-speaking environment.
