@@ -19,8 +19,8 @@ Mylivn is an innovative startup company located in central Munich. We are develo
 - You have published one or more Android apps in the play store.
 - You have a deep knowledge of the Android platform.
 - You know the Layered Architecture Pattern (Clean Architecture).
-- You have a good understanding of Java.
-- You are familiar with RxJava, Dagger 2, Butterknife.
+- You have a good understanding of Java and Kotlin.
+- You are familiar with Kotlin and RxJava.
 - You can write an efficient UI code as well as work with complex data structures and algorithms.
 - You have experience with third-party libraries and REST APIs.
 - You like to learn about new technologies and trends.
