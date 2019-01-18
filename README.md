@@ -11,7 +11,7 @@ The Mylivn vision is to be inspired by people - that means everyone’s way of l
 
 The secret to our success is our team’s ability to be creative, have a clear mission, and a knowledgeable approach to every situation. We are proud to be working with such inspiring international teammates who are smart, fun, ambitious, and looking for the challenge to transform social media and take it into the future.
 
-### Available positions 
+## Available positions 
 
 - [iOS Developer](https://github.com/mylivn-gmbh/jobs/blob/master/ios-developer.md)
 - [Android Developer](https://github.com/mylivn-gmbh/jobs/blob/master/android-developer.md)
@@ -19,7 +19,7 @@ The secret to our success is our team’s ability to be creative, have a clear m
 - [Backend Developer](https://github.com/mylivn-gmbh/jobs/blob/master/backend-developer.md)
 
 
-### Benefits
+## Benefits
 
 - Quality equipment
 - Competitive salary
