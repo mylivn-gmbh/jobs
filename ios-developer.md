@@ -1,12 +1,17 @@
-## Job description
+## Who we are
 
-Are you looking to improve your skills and gain valuable experience in order to enrich your career path? Do you want to work on an innovative and international team of highly skilled developers? Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
+We are a young and creative start-up from Munich, currently working on an app that connects social media to what’s happening locally and globally.
 
-Mylivn is an innovative startup company located in central Munich. We are developing a new social lifestyle application unique to any other application available in the market. We are searching for a motivated person to help support the development of this project.
+## What we do
+
+Mylivn is a lifestyle platform that connects people around the world. Anyone, anywhere, is able to see current posts, stories, products to buy, related content and more, all readily available by current location or specific interests, allowing an insight into what’s going on around you.
+
+
+Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
 
 ## Your roles
 
-- Build new features and improve existing ones for our iPhone and app.
+- Build new features and improve existing ones for our iPhone app.
 - Collaborate with a team around you and help in its development processes early on.
 - Join in with cross-functional teams to define, design and ship new features.
 - A chance to enrich our team with your knowledge and your innovative ideas.
@@ -34,13 +39,10 @@ Mylivn is an innovative startup company located in central Munich. We are develo
 
 ## What we offer
 
-- A crucial role in a highly motivated and talented team.
 - The opportunity to work on the latest iOS features.
 - Flat team structure and open communication.
-- MacBook Pro 2016+ as your working station.
+- MacBook Pro as your working station.
 - Multicultural and English-speaking environment.
-
-The recruitment process is relatively simple; a quick skills assessment test, a Skype call, and a final interview.
 
 Are you interested? Please contact us!
 
