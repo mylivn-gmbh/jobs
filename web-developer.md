@@ -53,7 +53,7 @@ We have a React written web application with Node.js server side rendering. For 
 
 - The opportunity to work on the latest web features.
 - Flat team structure and open communication.
-- MacBook Pro 2016+ as your working station.
+- MacBook Pro as your working station.
 - Multicultural and English-speaking environment.
 
 Are you interested? Please contact us!

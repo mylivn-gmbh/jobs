@@ -12,7 +12,7 @@ Our key target is to become the world's largest social commerce platform. We ach
 
 ## The Mylivn Approach 
 
-Inventing products to provide richer and more interactive content on mylivn for our users, bloggers and tradespeople is key for our daily motivation. We offer great opportunities for highly skilled talents with strong fundamental experience. We are growing fast and our target is to expand expeditiously throughout Europe, the United States and other regions around the world.
+Inventing products to provide richer and more interactive content on Mylivn for our users, bloggers and tradespeople is key for our daily motivation. We offer great opportunities for highly skilled talents with strong fundamental experience. We are growing fast and our target is to expand expeditiously throughout Europe, the United States and other regions around the world.
 
 The secret to our success is our team’s ability to be creative, have a clear mission, and a knowledgeable approach to every situation. We are proud to be working with such inspiring international teammates who are smart, fun, ambitious, and looking for the challenge to transform social media and take it into the future.
 

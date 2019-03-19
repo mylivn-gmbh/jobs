@@ -41,7 +41,7 @@ Mylivn is seeking to hire excited and motivated team members that are willing to
 
 - A crucial role in a highly motivated and talented team.
 - Flat team structure and open communication.
-- MacBook Pro 2016+ as your working station.
+- MacBook Pro as your working station.
 - Multicultural and English-speaking environment.
 
 Are you interested? Please contact us!

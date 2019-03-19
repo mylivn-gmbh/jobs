@@ -41,7 +41,7 @@ Mylivn is seeking to hire excited and motivated team members that are willing to
 - The opportunity to work on the latest Android features.
 - A modern codebase with a scalable architecture.
 - Flat team structure with open communication.
-- MacBook Pro 2016+ as your working station.
+- MacBook Pro as your working station.
 - Multicultural and English-speaking environment.
 
 Are you interested? Please contact us!
