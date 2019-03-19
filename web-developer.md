@@ -13,12 +13,11 @@ Mylivn is seeking to hire excited and motivated team members that are willing to
 
 We have a React written web application with Node.js server side rendering. For the communications with backend services we use REST API and WebSocket. The application build is deployed as a Docker container. We keep the codebase clear and use Eslint and Prettier pre commit hooks.
 
-- Technologies we use: 
-- React
-- Redux with redux-thunk
+Technologies we use: 
+- React, Redux with redux-thunk, RxJS
 - Server side rendering with Express.js
 - Sass, PostCSS, Autoprefixer
-- Jest with enzyme
+- Jest with enzyme, Cypress
 - Webpack
 - Gitlab CI
 
