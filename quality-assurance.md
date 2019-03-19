@@ -1,7 +1,22 @@
-## Job description
+## Who we are
 
-Are you looking to improve your skills and gain valuable experience in order to enrich your career path? Do you want to work on an innovative and international team of highly skilled professionals? Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
-Mylivn is an innovative startup company located in central Munich. We are developing a new social lifestyle application unique to any other application available in the market. We are searching for a motivated person to help support the development of this project.
+We are a young and creative start-up from Munich, currently working on an app that connects social media to what’s happening locally and globally.
+
+## What we do
+
+Mylivn is a lifestyle platform that connects people around the world. Anyone, anywhere, is able to see current posts, stories, products to buy, related content and more, all readily available by current location or specific interests, allowing an insight into what’s going on around you.
+
+
+Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
+
+## Your profile
+
+- 4+ years of experience in QA.
+- You have a thorough understanding of QA principles, tools and techniques and have solid experience in a similar role.
+- You are experienced in Compatibility Testing, incorporating different browsers, platforms and devices.
+- Understanding of security concepts in web application, how to test application against  different types of security threats. 
+- Great team spirit and communication skills.
+- Disciplined approach in issue investigation and writing thorough descriptions for issues.
 
 ## Your roles
 
@@ -10,17 +25,8 @@ Mylivn is an innovative startup company located in central Munich. We are develo
 - You clearly describe reproducible defects and problem scenarios.
 - Collaborate with a team around you and help in its development processes early on.
 - Join in with cross-functional teams to define, design and ship new features.
-- A chance to enrich our team with your knowledge and your innovative ideas.
+- A chance to enrich our team with your knowledge and innovative ideas.
 - You continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
-
-## Your profile
-
-- 4+ years of experience in QA.
-- You have a thorough understanding of QA principles, tools and techniques and have solid experience in a similar role.
-- You are experienced in Compatibility Testing, incorporating different browsers, platforms and devices.
-- Understanding of security concepts in web application, how to test application against  different types of security threats. 
-- Great team spirit and communication skills
-- Disciplined approach in issue investigation and writing thorough descriptions for issues.
 
 ## Nice to have
 
