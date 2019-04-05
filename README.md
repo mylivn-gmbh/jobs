@@ -4,17 +4,13 @@
 
 ![](https://raw.githubusercontent.com/mylivn-gmbh/jobs/master/assets/cover1.png)
 
-We are a young and creative start-up from Munich, currently working on an app that connects social media to what’s happening locally and globally.
-We created **Mylivn** with the goal of becoming an **all-in-one** app and a place inspired by people. We believe that through a combination of features, social aspects and potential connections, **Mylivn** can become one of the most unique and truly social apps.
-Our key target is to become the world's largest social commerce platform. We achieve this by our own development of a high-performance platform that will transform the traditional online shopping experience to a groundbreaking modern and inspiring trading network. This basically defines our understanding of what we like to call ”**the future of smart shopping**".
+A creative startup based in Munich, Germany working to transform social media and bring it to a new level. Mylivn is a social community that encourages you to share what excites you, helps you to market what you create and enables you to find new sources ofinspiration.We’re a team of young and motivated professionals working to change the social media landscape. We all have different backgrounds and previous experiences, and this diversity is what makes our workplace special. We are proud to be working with such inspiring international teammates who are smart, fun, ambitious, and looking for the challenge to transform social media and take it into the future.
 
 ![](https://raw.githubusercontent.com/mylivn-gmbh/jobs/master/assets/app3.jpg)
 
 ## The Mylivn Approach 
 
-Inventing products to provide richer and more interactive content on **Mylivn** for our users, bloggers and tradespeople is key for our daily motivation. We offer great opportunities for highly skilled talents with strong fundamental experience. We are growing fast and our target is to expand expeditiously throughout Europe, the United States and other regions around the world.
-
-The secret to our success is our team’s ability to be creative, have a clear mission, and a knowledgeable approach to every situation. We are proud to be working with such inspiring international teammates who are smart, fun, ambitious, and looking for the challenge to transform social media and take it into the future.
+We envision Mylivn to become the inspiration hub of the future. It’s your digital neighborhood of inspiring, creative and adventurous people. We are brand builders, stylebloggers, content creators, influencers and adventurers striving to inspire change. We collaborate with like-minded people who appreciate the same as we do across food, fashion, travel and more, to continually grow our community and to connect with people around the world.
 
 ## Available positions 
 
