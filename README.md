@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/mylivn-gmbh/jobs/master/assets/cover1.png)
 
-A creative startup based in Munich, Germany working to transform social media and bring it to a new level. Mylivn is a social community that encourages you to share what excites you, helps you to market what you create and enables you to find new sources ofinspiration.We’re a team of young and motivated professionals working to change the social media landscape. We all have different backgrounds and previous experiences, and this diversity is what makes our workplace special. We are proud to be working with such inspiring international teammates who are smart, fun, ambitious, and looking for the challenge to transform social media and take it into the future.
+A creative startup based in Munich, Germany working to transform social media and bring it to a new level. Mylivn is a social community that encourages you to share what excites you, helps you to market what you create and enables you to find new sources of inspiration. We’re a team of young and motivated professionals working to change the social media landscape. We all have different backgrounds and previous experiences, and this diversity is what makes our workplace special. We are proud to be working with such inspiring international teammates who are smart, fun, ambitious, and looking for the challenge to transform social media and take it into the future.
 
 ![](https://raw.githubusercontent.com/mylivn-gmbh/jobs/master/assets/app3.jpg)
 
