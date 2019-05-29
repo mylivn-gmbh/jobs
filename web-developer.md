@@ -1,11 +1,12 @@
 ## Who we are
 
-We are a young and creative start-up from Munich, currently working on an app that connects social media to what’s happening locally and globally.
+We are a creative startup based in Munich, Germany working to transform social media and bring it to a new level. 
 
 ## What we do
 
-Mylivn is a lifestyle platform that connects people around the world. Anyone, anywhere, is able to see current posts, stories, products to buy, related content and more, all readily available by current location or specific interests, allowing an insight into what’s going on around you.
+Mylivn is a social lifestyle community where brand builders, bloggers, content creators, influencers and adventurers strive to inspire change with their own channel.
 
+The Mylivn community is made up of creators, influencers, bloggers and adventurers who run their own channel of inspirations that are both intriguing and exciting. You can follow hundreds of channels to stay up to date with the most spectacular lifestyles or inspirations and follow their way of livn.
 
 Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
 
