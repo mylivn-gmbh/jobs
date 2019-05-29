@@ -2,13 +2,13 @@
 ## Mylivn
 #### Inspired by People
 
-![](cover1.png)
+![](assets/cover1.png)
 
 We are a creative startup based in Munich, Germany working to transform social media and bring it to a new level. Mylivn is a social lifestyle community where brand builders, bloggers, content creators, influencers and adventurers strive to inspire change with their own channel.
 
 We’re a team of young and motivated professionals working to change the social media landscape. We all have different backgrounds and previous experiences, and this diversity is what makes our workplace special. We are proud to be working with such inspiring international teammates who are smart, fun, ambitious, and looking for the challenge to transform social media and take it into the future.
 
-![](cover2.png)
+![](assets/cover2.png)
 
 ## The Mylivn Approach 
 
