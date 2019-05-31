@@ -18,7 +18,7 @@ The Mylivn community is made up of creators, influencers, bloggers and adventure
 
 - [iOS Developer](https://github.com/mylivn-gmbh/jobs/blob/master/ios-developer.md)
 - [Android Developer](https://github.com/mylivn-gmbh/jobs/blob/master/android-developer.md)
-- [Web Developer](https://github.com/mylivn-gmbh/jobs/blob/master/web-developer.md)
+- [Frontend Developer](https://github.com/mylivn-gmbh/jobs/blob/master/web-developer.md)
 - [Backend Developer](https://github.com/mylivn-gmbh/jobs/blob/master/backend-developer.md)
 - [Quality Assurance](https://github.com/mylivn-gmbh/jobs/blob/master/quality-assurance.md)
 
