@@ -20,12 +20,17 @@ Mylivn was founded in 2015 and is based in Munich, Germany.
 
 ## Available positions 
 
-- [iOS Developer](https://github.com/mylivn-gmbh/jobs/blob/master/ios-developer.md)
-- [Android Developer](https://github.com/mylivn-gmbh/jobs/blob/master/android-developer.md)
-- [Web Developer](https://github.com/mylivn-gmbh/jobs/blob/master/web-developer.md)
-- [Backend Developer](https://github.com/mylivn-gmbh/jobs/blob/master/backend-developer.md)
-- [Quality Assurance](https://github.com/mylivn-gmbh/jobs/blob/master/quality-assurance.md)
-
+- [iOS Developer](ios-developer.md)
+- [Android Developer](android-developer.md)
+- [Web Developer](web-developer.md)
+- [Backend Developer](backend-developer.md)
+- [Quality Assurance Engineer](quality-assurance.md)
+- [UI / UX Designer](ui-ux-designer.md)
+- [Digital Markering Manager](digital-marketing-manager.md)
+- [Office Management Assistant](office-management-assistant.md)
+- [PR Manager](pr-manager.md)
+- [Social Media Marketing Intern/Working Student](social-media-marketing-intern.md)
+- [Strategic Research Working Student](strategic-research-student.md)
 
 ## Benefits
 

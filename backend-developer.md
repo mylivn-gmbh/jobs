@@ -1,14 +1,16 @@
+## Scala Backend Developer (M/W)
+
+### Full Time — Munich, Germany
+
+### Mylivn - Your Lifestyle Social Network
+
 ## Who we are
 
-We are a creative startup based in Munich, Germany working to transform social media and bring it to a new level. 
+Mylivn is a lifestyle social network where creators have the freedom to influence their own experience. It provides a place for everyone to run their own channel in a community where being active means being seen. 
 
-## What we do
+It’s like your own app within our app – a place to share your way of “livn”. 
 
-Mylivn is a social lifestyle community where brand builders, bloggers, content creators, influencers and adventurers strive to inspire change with their own channel.
-
-The Mylivn community is made up of creators, influencers, bloggers and adventurers who run their own channel of inspirations that are both intriguing and exciting. You can follow hundreds of channels to stay up to date with the most spectacular lifestyles or inspirations and follow their way of livn.
-
-Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
+Mylivn was founded in 2015 and is based in Munich, Germany.
 
 ## Our stack
 
