@@ -12,10 +12,6 @@ It’s like your own app within our app – a place to share your way of “livn
 
 Mylivn was founded in 2015 and is based in Munich, Germany.
 
-## Who we are
-
-We are a creative startup based in Munich, Germany working to transform social media and bring it to a new level. 
-
 ## What we do
 
 Mylivn is a social lifestyle community where brand builders, bloggers, content creators, influencers and adventurers strive to inspire change with their own channel.
