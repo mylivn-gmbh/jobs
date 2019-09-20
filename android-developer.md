@@ -21,6 +21,8 @@ Mylivn was founded in 2015 and is based in Munich, Germany.
 - You have a good understanding of Java and Kotlin and are familiar with Kotlin and RxJava.
 - You can write an efficient UI code as well as work with complex data structures and algorithms.
 - You have experience with third-party libraries and REST APIs.
+- You like to learn about new technologies and trends.
+- You have a decent level of English, can read technical documentation and communicate easily with colleagues.
 
 ## Your roles
 
@@ -28,8 +30,6 @@ Mylivn was founded in 2015 and is based in Munich, Germany.
 - Join in with cross-functional teams to define, design and ship new features.
 - A chance to enrich our team with your knowledge and innovative ideas.
 - Continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
-- You like to learn about new technologies and trends.
-- You have a decent level of English, can read technical documentation and communicate easily with colleagues.
 
 ## Nice to have
 
