@@ -18,17 +18,25 @@ Mylivn was founded in 2015 and is based in Munich, Germany.
 
 ## Available positions 
 
-- [iOS Developer](ios-developer.md)
+### Product Engineering
 - [Android Developer](android-developer.md)
+- [Scala Backend Developer](backend-developer.md)
 - [Web Developer](web-developer.md)
-- [Backend Developer](backend-developer.md)
+- [iOS Developer](ios-developer.md)
 - [Quality Assurance Engineer](quality-assurance.md)
-- [UI / UX Designer](ui-ux-designer.md)
+
+### Administration
 - [Digital Markering Manager](digital-marketing-manager.md)
+- [Paid Social Media Manager](paid-social-media-manager.md)
+- [Social Media Manager](social-media-manager.md)
 - [Office Management Assistant](office-management-assistant.md)
 - [PR Manager](pr-manager.md)
 - [Social Media Marketing Intern/Working Student](social-media-marketing-intern.md)
 - [Strategic Research Working Student](strategic-research-student.md)
+
+### Design
+- [Senior UI/UX Designer](ui-ux-designer.md)
+- [Digital Graphic Designer](digital-graphic-designer.md)
 
 ## Benefits
 

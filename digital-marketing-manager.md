@@ -1,41 +1,39 @@
-## Digital Marketing Manager (M/W)
+We are looking for you!
 
-### Full Time — Munich, Germany
+## DIGITAL MARKETING MANAGER (M/W)
 
-### Mylivn - Your Lifestyle Social Network
+Mylivn is a social network for modern creative minds with multiple passions. Our mission is to inspire genuine creativity and authentic connections. We have a team of enthusiastic and creative doers from all over the world, and we’re always looking for new talents.
 
-## Who we are
+Join us on our mission to transform social media! 
 
-Mylivn is a lifestyle social network where creators have the freedom to influence their own experience. It provides a place for everyone to run their own channel in a community where being active means being seen. 
-
-It’s like your own app within our app – a place to share your way of “livn”. 
-
-Mylivn was founded in 2015 and is based in Munich, Germany.
-
+## Your profile
+- Bachelor's degree in Marketing or relevant field.
+- A minimum of 3 year’s experience in a digital marketing or advertising position.
+- In-depth knowledge of various social media platforms, best practices, and website analytics.
+- Highly creative with excellent analytical abilities.
+- Outstanding communication and interpersonal skills.
+- Up-to-date on the latest trends and technologies in digital marketing
 
 ## Your roles
--	Design and oversee all aspects of our digital marketing department including our marketing database, email, and display advertising campaigns.
--	Develop and monitor campaign budgets.
--	Plan and manage our social media platforms.
--	Prepare accurate reports on our marketing campaign's overall performance.
--	Coordinate with advertising and media experts to improve marketing results.
--	Identify the latest trends and technologies affecting our industry.
--	Evaluate important metrics that affect our website traffic, service quotas, and target audience.
--	Work with your team to brainstorm new and innovative growth strategies.
--	Oversee and manage all contests, giveaways, and other digital projects.
- 
- 
-## Your profile
--	Bachelor's degree in Marketing or relevant field.
--	A minimum of 3 year’s experience in a digital marketing or advertising position.
--	In-depth knowledge of various social media platforms, best practices, and website analytics.
--	Highly creative with excellent analytical abilities.
--	Outstanding communication and interpersonal skills.
--	Up-to-date on the latest trends and technologies in digital marketing.
+- Design and oversee all aspects of our digital marketing department including our marketing database, email, and display advertising campaigns.
+- Develop and monitor campaign budgets.
+- Plan and manage our social media platforms.
+- Prepare accurate reports on our marketing campaign's overall performance.
+- Coordinate with advertising and media experts to improve marketing results.
+- Identify the latest trends and technologies affecting our industry.
+- Evaluate important metrics that affect our website traffic, service quotas, and target audience.
+- Work with your team to brainstorm new and innovative growth strategies.
+- Oversee and manage all contests, giveaways, and other digital projects.
 
+## Benefits
+- A modern, open-plan office in the heart of a thriving business district in Munich 
+- Small, well-structured teams with international colleagues 
+- Non-hierarchical structure and a fast decision-making process 
+- The opportunity to take part in developing a new social network 
+- Barbeque parties on our rooftop terrace 
+- A chill zone with a PlayStation, books and free drinks
 
-## What we offer
--	A crucial role in a highly motivated and talented team.
--	Independent work and experience in an innovative, rapidly growing company.
--	Flat team structure with open communication.
--	Multicultural and English-speaking environment.
+Send your application to hr@mylivn.com
+
+## JOIN US!
+

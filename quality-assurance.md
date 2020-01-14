@@ -1,36 +1,20 @@
-## Quality Assurance Engineer (M/W)
+We are looking for you!
 
-### Full Time — Munich, Germany
+## QUALITY ASSURANCE ENGINEER (M/W)
 
-### Mylivn - Your Lifestyle Social Network
+Mylivn is a social network for modern creative minds with multiple passions. Our mission is to inspire genuine creativity and authentic connections. We have a team of enthusiastic and creative doers from all over the world, and we’re always looking for new talents.
 
-## Who we are
-
-Mylivn is a lifestyle social network where creators have the freedom to influence their own experience. It provides a place for everyone to run their own channel in a community where being active means being seen. 
-
-It’s like your own app within our app – a place to share your way of “livn”. 
-
-Mylivn was founded in 2015 and is based in Munich, Germany.
-
-## What we do
-
-Mylivn is a social lifestyle community where brand builders, bloggers, content creators, influencers and adventurers strive to inspire change with their own channel.
-
-The Mylivn community is made up of creators, influencers, bloggers and adventurers who run their own channel of inspirations that are both intriguing and exciting. You can follow hundreds of channels to stay up to date with the most spectacular lifestyles or inspirations and follow their way of livn.
-
-Mylivn is seeking to hire excited and motivated team members that are willing to share their expertise and push their capabilities to the next level.
+Join us on our mission to transform social media! 
 
 ## Your profile
-
 - 4+ years of experience in QA.
 - You have a thorough understanding of QA principles, tools and techniques and have solid experience in a similar role.
 - You are experienced in Compatibility Testing, incorporating different browsers, platforms and devices.
-- Understanding of security concepts in web application, how to test application against  different types of security threats. 
+- Understanding of security concepts in web application, how to test application against different types of security threats.
 - Great team spirit and communication skills.
 - Disciplined approach in issue investigation and writing thorough descriptions for issues.
 
 ## Your roles
-
 - You perform exploratory and experience-based testing of new features.
 - You refine user stories, acceptance criteria, and examples of use cases.
 - You clearly describe reproducible defects and problem scenarios.
@@ -40,7 +24,6 @@ Mylivn is seeking to hire excited and motivated team members that are willing to
 - You continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
 
 ## Nice to have
-
 - ISEB/ISTQB Foundation certification.
 - An understanding of automation principles and experience of automated regression testing.
 - Experience with Jira and Confluence with Scrum projects.
@@ -48,13 +31,15 @@ Mylivn is seeking to hire excited and motivated team members that are willing to
 - Comfortable with the use of browser developer tools to provide detailed analysis of issues, alter CSS and write simple JavaScript.
 - Knowledge of any programming languages like JavaScript/Java/Groovy/Python.
 
-## What we offer
+## Benefits
+- A modern, open-plan office in the heart of a thriving business district in Munich 
+- Small, well-structured teams with international colleagues 
+- Non-hierarchical structure and a fast decision-making process 
+- The opportunity to take part in developing a new social network 
+- Barbeque parties on our rooftop terrace 
+- A chill zone with a PlayStation, books and free drinks
 
-- A crucial role in a highly motivated and talented team.
-- Flat team structure and open communication.
-- MacBook Pro as your working station.
-- Multicultural and English-speaking environment.
+Send your application to hr@mylivn.com
 
-Are you interested? Please contact us!
+## JOIN US!
 
-hr@mylivn.com
