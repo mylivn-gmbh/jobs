@@ -1,43 +1,41 @@
-## PR Manager (M/W)
+We are looking for you!
 
-### Full Time — Munich, Germany
+## PR MANAGER (M/W)
 
-### Mylivn - Your Lifestyle Social Network
+Mylivn is a social network for modern creative minds with multiple passions. Our mission is to inspire genuine creativity and authentic connections. We have a team of enthusiastic and creative doers from all over the world, and we’re always looking for new talents.
 
-
-## Who we are
-
-Mylivn is a lifestyle social network where creators have the freedom to influence their own experience. It provides a place for everyone to run their own channel in a community where being active means being seen. 
-
-It’s like your own app within our app – a place to share your way of “livn”. 
-
-Mylivn was founded in 2015 and is based in Munich, Germany.
-
-## Your roles
--	Plan, implement and manage public relations programs.
--	Plan and budget for PR events, programs and initiatives.
--	Help in designing and reviewing a variety of promotional and marketing materials.
--	Design and review the online content in media announcements and media kits.
--	Monitor corporate image frequently and ensure it is in compliance with company brand.
--	Check and manage content produced for website and social media channels.
--	Develop and implement PR policies and procedures.
--	Measure and provide reports on each PR campaign. 
--	Build long-term relationships with all relevant stakeholders, such as local government, media people, politicians, etc.
--	Produce content for various speeches, events, hearings, etc.
-
+Join us on our mission to transform social media! 
 
 ## Your profile
--	Previous working experience as Public Relations Specialist for minimum of 3 years.
--	BSc/BA in PR, communications, journalism or similar relevant field.
--	A proven track record of successful PR campaigns.
--	Excellent communication, presentation and leadership skills.
--	Outstanding organizational and time management skills.
--	Aptitude in presentation and public speaking.
--	Attention to detail.
+- Previous working experience as Public Relations Specialist for minimum of 3 years.
+- BSc/BA in PR, communications, journalism or similar relevant field.
+- A proven track record of successful PR campaigns.
+- Excellent communication, presentation and leadership skills.
+- Outstanding organizational and time management skills.
+- Aptitude in presentation and public speaking.
+- Attention to detail.
 
+## Your roles
+- Plan, implement and manage public relations programs.
+- Plan and budget for PR events, programs and initiatives.
+- Help in designing and reviewing a variety of promotional and marketing materials.
+- Design and review the online content in media announcements and media kits.
+- Monitor corporate image frequently and ensure it is in compliance with company brand.
+- Check and manage content produced for website and social media channels.
+- Develop and implement PR policies and procedures.
+- Measure and provide reports on each PR campaign.
+- Build long-term relationships with all relevant stakeholders, such as local government, media people, politicians, etc.
+- Produce content for various speeches, events, hearings, etc.
 
-## What we offer
--	A crucial role in a highly motivated and talented team.
--	Independent work and experience in an innovative, rapidly growing company.
--	Flat team structure with open communication.
--	Multicultural and English-speaking environment.
+## Benefits
+- A modern, open-plan office in the heart of a thriving business district in Munich 
+- Small, well-structured teams with international colleagues 
+- Non-hierarchical structure and a fast decision-making process 
+- The opportunity to take part in developing a new social network 
+- Barbeque parties on our rooftop terrace 
+- A chill zone with a PlayStation, books and free drinks
+
+Send your application to hr@mylivn.com
+
+## JOIN US!
+

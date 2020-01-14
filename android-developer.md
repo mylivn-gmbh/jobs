@@ -1,51 +1,44 @@
-## Android Developer (M/W)
+We are looking for you!
 
-### Full Time — Munich, Germany
+## ANDROID DEVELOPER (M/W)
 
-### Mylivn - Your Lifestyle Social Network
+Mylivn is a social network for modern creative minds with multiple passions. Our mission is to inspire genuine creativity and authentic connections. We have a team of enthusiastic and creative doers from all over the world, and we’re always looking for new talents.
 
-## Who we are
-
-Mylivn is a lifestyle social network where creators have the freedom to influence their own experience. It provides a place for everyone to run their own channel in a community where being active means being seen. 
-
-It’s like your own app within our app – a place to share your way of “livn”. 
-
-Mylivn was founded in 2015 and is based in Munich, Germany.
+Join us on our mission to transform social media! 
 
 ## Your profile
-
-- 4+ years of Android development experience.
-- You have published one or more Android apps in the play store.
-- You have a deep knowledge of the Android platform.
-- You know the Layered Architecture Pattern (Clean Architecture).
-- You have a good understanding of Java and Kotlin and are familiar with Kotlin and RxJava.
-- You can write an efficient UI code as well as work with complex data structures and algorithms.
-- You have experience with third-party libraries and REST APIs.
-- You like to learn about new technologies and trends.
-- You have a decent level of English, can read technical documentation and communicate easily with colleagues.
+ - 4+ years of Android development experience.
+ - You have published one or more Android apps in the play store.
+ - You have a deep knowledge of the Android platform.
+ - You know the Layered Architecture Pattern (Clean Architecture).
+ - You have a good understanding of Java and Kotlin and are familiar with Kotlin and RxJava.
+ - You can write an efficient UI code as well as work with complex data structures and algorithms.
+ - You have experience with third-party libraries and REST APIs.
 
 ## Your roles
-
-- Build new features and improve existing ones for our Android app and help in the development process early on.
-- Join in with cross-functional teams to define, design and ship new features.
-- A chance to enrich our team with your knowledge and innovative ideas.
-- Continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
+ - Build new features and improve existing ones for our Android app and help in the development process early on.
+ - Join in with cross-functional teams to define, design and ship new features.
+ - A chance to enrich our team with your knowledge and innovative ideas.
+ - Continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
+ - You like to learn about new technologies and trends.
+ - You have a decent level of English, can read technical documentation and communicate easily with colleagues.
 
 ## Nice to have
+ - Hands on experience with processing images, adding effects and user input.
+ - You have implemented complex data flows, consistency negotiation protocols with backend and asynchronous messaging communication.
+ - You were curious enough to try Kotlin.
+ - You always do your best to deliver your code on time and achieve the best quality and you are never satisfied until your task is done.
+ - You prefer reading and understanding documentation rather than the first upvoted answer on Stack Overflow.
+ 
+## Benefits
+ - A modern, open-plan office in the heart of a thriving business district in Munich 
+ - Small, well-structured teams with international colleagues 
+ - Non-hierarchical structure and a fast decision-making process 
+ - The opportunity to take part in developing a new social network 
+ - Barbeque parties on our rooftop terrace 
+ - A chill zone with a PlayStation, books and free drinks
 
-- Hands on experience with processing images, adding effects and user input.
-- You have implemented complex data flows, consistency negotiation protocols with backend and asynchronous messaging communication.
-- You were curious enough to try Kotlin.
-- You always do your best to deliver your code on time and achieve the best quality and you are never satisfied until your task is done.
-- You prefer reading and understanding documentation rather than the first upvoted answer on Stack Overflow.
+Send your application to hr@mylivn.com
 
-## What we offer
+## JOIN US!
 
-- The opportunity to work on the latest Android features.
-- A modern codebase with a scalable architecture.
-- Flat team structure with open communication.
-- MacBook Pro as your working station.
-- Multicultural and English-speaking environment.
-
-Are you interested? Please contact us!
-hr@mylivn.com

@@ -1,27 +1,12 @@
-## iOS Developer (M/W)
+We are looking for you!
 
-### Full Time — Munich, Germany
+## iOS DEVELOPER (M/W)
 
-### Mylivn - Your Lifestyle Social Network
+Mylivn is a social network for modern creative minds with multiple passions. Our mission is to inspire genuine creativity and authentic connections. We have a team of enthusiastic and creative doers from all over the world, and we’re always looking for new talents.
 
-## Who we are
-
-Mylivn is a lifestyle social network where creators have the freedom to influence their own experience. It provides a place for everyone to run their own channel in a community where being active means being seen. 
-
-It’s like your own app within our app – a place to share your way of “livn”. 
-
-Mylivn was founded in 2015 and is based in Munich, Germany.
-
-## Your roles
-
-- Build new features and improve existing ones for our iPhone app.
-- Collaborate with a team around you and help in its development processes early on.
-- Join in with cross-functional teams to define, design and ship new features.
-- A chance to enrich our team with your knowledge and your innovative ideas.
-- You continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
+Join us on our mission to transform social media! 
 
 ## Your profile
-
 - 4+ years of iOS development experience.
 - You have published one or more iOS apps in the App Store.
 - You have a deep knowledge of the iOS platform.
@@ -36,17 +21,25 @@ Mylivn was founded in 2015 and is based in Munich, Germany.
 - You always do your best to deliver your code on time and achieve the best quality and you are never satisfied until your task is done.
 - You prefer reading and understanding documentation rather than the first upvoted answer on Stack Overflow.
 
+## Your roles
+- Build new features and improve existing ones for our iPhone app.
+- Collaborate with a team around you and help in its development processes early on.
+- Join in with cross-functional teams to define, design and ship new features.
+- A chance to enrich our team with your knowledge and your innovative ideas.
+- You continuously discover, evaluate and implement new technologies to maximize quality and efficiency.
+
 ## Nice to have
+- Experience with reactive patterns.
 
-- Experience with reactive patterns. 
+## Benefits
+- A modern, open-plan office in the heart of a thriving business district in Munich 
+- Small, well-structured teams with international colleagues 
+- Non-hierarchical structure and a fast decision-making process 
+- The opportunity to take part in developing a new social network 
+- Barbeque parties on our rooftop terrace 
+- A chill zone with a PlayStation, books and free drinks
 
-## What we offer
+Send your application to hr@mylivn.com
 
-- The opportunity to work on the latest iOS features.
-- Flat team structure and open communication.
-- MacBook Pro as your working station.
-- Multicultural and English-speaking environment.
+## JOIN US!
 
-Are you interested? Please contact us!
-
-hr@mylivn.com
