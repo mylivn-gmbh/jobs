@@ -7,10 +7,10 @@ Mylivn is a social network for modern creative minds with multiple passions. Our
 Join us on our mission to transform social media! 
 
 ## Your profile
-- 3+ years of experience in user-centric application and interaction design.
-- Experts in using industry-standard design tools (eg. Invision, Sketch, Adobe Illustrator, Mockups etc.).
-- Ability to create prototypes (eg. wire framing, etc.).
-- Experience in design across multiple channels (desktop, mobile and web).
+- 3+ years of experience in a user-centric application and interaction design.
+- Experts in using industry-standard design tools (eg. Invision, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Mockups etc.).
+- Ability to create prototypes (eg. inVision, Marvel, etc.).
+- Experience in wireframe and interface design across multiple channels (desktop, mobile and web).
 - Strong sense of workflow and user interaction.
 - Proven UX design capabilities with a strong referential portfolio.
 - Ability to solve complicated UX topics and create high-quality imagery from concept development to execution.
@@ -18,8 +18,8 @@ Join us on our mission to transform social media!
 - Good communication skills in English.
 
 ## Your roles
-- Design mockups, interactive prototypes and production ready components for apps and webpages.
-- Understand and apply user-centered design methodologies.
+- Design pixel perfect interfaces, interactive prototypes and production ready components for apps and webpages.
+- Understand and apply user-centric design methodologies.
 - Translate concepts into wireframes and mockups that lead to intuitive user experiences.
 - Development of a unique and recognizable overall appearance for all our products.
 - Update designs using collaborative feedback to refine the user experience.
@@ -37,4 +37,3 @@ Join us on our mission to transform social media!
 Send your application to hr@mylivn.com
 
 ## JOIN US!
-
