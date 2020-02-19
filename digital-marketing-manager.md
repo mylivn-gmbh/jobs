@@ -6,24 +6,26 @@ Mylivn is a social network for modern creative minds with multiple passions. Our
 
 Join us on our mission to transform social media! 
 
-## Your profile
-- Bachelor's degree in Marketing or relevant field.
-- A minimum of 3 year’s experience in a digital marketing or advertising position.
-- In-depth knowledge of various social media platforms, best practices, and website analytics.
-- Highly creative with excellent analytical abilities.
-- Outstanding communication and interpersonal skills.
-- Up-to-date on the latest trends and technologies in digital marketing
+## Key responsibilities
 
-## Your roles
-- Design and oversee all aspects of our digital marketing department including our marketing database, email, and display advertising campaigns.
-- Develop and monitor campaign budgets.
-- Plan and manage our social media platforms.
-- Prepare accurate reports on our marketing campaign's overall performance.
-- Coordinate with advertising and media experts to improve marketing results.
-- Identify the latest trends and technologies affecting our industry.
-- Evaluate important metrics that affect our website traffic, service quotas, and target audience.
-- Work with your team to brainstorm new and innovative growth strategies.
-- Oversee and manage all contests, giveaways, and other digital projects.
+Responsible for user growth, strategy planning and creation of online campaigns to achieve all KPIs for growth using all the available traction channels with focus on display and native ads
+
+- Develop the digital display and native ads strategy: from planning through to media and creative delivery and post-campaign analysis 
+- Ensure our advertising aligns with other marketing activities and adheres to digital best-practice
+- Drive data analysis, reporting and performance optimization of campaigns with standard marketing tools and techniques such as A/B testing
+- Drive the Digital Marketing measurement & performance analysis against KPIs and benchmarks 
+- Develop test and learn plans and push for innovation and best practice across all areas of our activity
+- Join creative brainstorming sessions to come up with new ideas and initiatives to drive user growth
+- Analyse and explore new channels to identify growth opportunities
+
+## Your profile
+- Relevant degree in marketing 
+- 5+ years comprehensive relevant digital marketing experience from agency, start-up or consumer brand
+- Strong strategic, digital and holistic end to end thinking 
+- Good attention to detail and proficient with Excel; be analytically minded and able to work with large data sets and extract actionable insights 
+- Deep knowledge and understanding of the latest trends in digital marketing
+- Have a resilient nature to adapt to changing business needs, whilst maintaining a positive and energetic attitude 
+- Excellent organization and time management skills with the proven ability to manage and deliver multiple campaigns or projects, as well as managing stakeholder expectations
 
 ## Benefits
 - A modern, open-plan office in the heart of a thriving business district in Munich 
@@ -36,4 +38,6 @@ Join us on our mission to transform social media!
 Send your application to hr@mylivn.com
 
 ## JOIN US!
+We will trust you with a great responsibility and freedom to rock
+
 

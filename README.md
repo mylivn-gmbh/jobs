@@ -27,6 +27,7 @@ Mylivn was founded in 2015 and is based in Munich, Germany.
 
 ### Administration
 - [Digital Markering Manager](digital-marketing-manager.md)
+- [Digital Content Writer and Editor](digital-content-writer.md)
 - [Paid Social Media Manager](paid-social-media-manager.md)
 - [Social Media Manager](social-media-manager.md)
 - [Office Management Assistant](office-management-assistant.md)
