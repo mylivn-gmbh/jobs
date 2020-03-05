@@ -11,7 +11,7 @@ Our backend system represents a microservice architecture with strict domain bou
 
 Technologies we use in backend:
 
-- Languages: Scala.
+- Languages: Scala (primary), Go (specific usecases), Python (scripting).
 - Databases: PostgreSQL, Redis.
 - Messaging and Stream Processing: Apache Kafka.
 - Search: Elasticsearch.
