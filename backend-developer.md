@@ -11,7 +11,7 @@ Our backend system represents a microservice architecture with strict domain bou
 
 Technologies we use in backend:
 
-- Languages: Scala, Go, Python.
+- Languages: Scala.
 - Databases: PostgreSQL, Redis.
 - Messaging and Stream Processing: Apache Kafka.
 - Search: Elasticsearch.
@@ -39,8 +39,7 @@ Technologies we use in backend:
 
 ## Nice to have
 - Hands-on experience with Apache Kafka. You understand its architecture and guarantees.
-- Experience with Play Framework, Akka.
-- Knowledge of Scala FP libraries like Scalaz, Cats, Monix. Understanding about effects management and referential transparency.
+- Knowledge of Scala FP libraries like ZIO, Cats, Doobie. Understanding about effects management and referential transparency.
 - You like to learn about new technologies and trends.
 - You know your tools and you’re not afraid to use them (debugging, profiling, Java tools).
 - You always do your best to deliver your code on time and achieve the best quality and you are never satisfied until your task is done.
