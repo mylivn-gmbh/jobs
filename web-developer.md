@@ -43,6 +43,6 @@ Our main technologies stack includes react, redux, typescript, css-modules, node
 - Barbeque parties on our rooftop terrace
 - A chill zone with a PlayStation, books and free drinks
 
-Send your application to [hr@mylivn.com](mailto:hr@mylivn.com)
+Send your application to [talents@mylivn.com](mailto:talents@mylivn.com)
 
 ## JOIN US!
