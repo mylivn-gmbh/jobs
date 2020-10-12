@@ -1,6 +1,6 @@
 We are looking for you!
 
-## SENIOR UI/UX DESIGNER (M/W)
+## SENIOR UI/UX DESIGNER (f/m/d)
 
 Mylivn is a social network for modern creative minds with multiple passions. Our mission is to inspire genuine creativity and authentic connections. We have a team of enthusiastic and creative doers from all over the world, and we’re always looking for new talents.
 
@@ -34,6 +34,6 @@ Join us on our mission to transform social media!
 - Barbeque parties on our rooftop terrace 
 - A chill zone with a PlayStation, books and free drinks
 
-Send your application to hr@mylivn.com
+Send your application to talents@mylivn.com
 
 ## JOIN US!

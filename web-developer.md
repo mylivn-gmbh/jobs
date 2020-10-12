@@ -1,6 +1,6 @@
 We are looking for you!
 
-# WEB DEVELOPER (W/M/D)﻿
+# WEB DEVELOPER (f/m/d)
 
 mylivn is a social network for modern creative minds with multiple passions. Our mission is to inspire genuine creativity and authentic connections. We have a team of enthusiastic and creative doers from all over the world, and we’re always looking for new talents. Join us on our mission to transform social media!
 
