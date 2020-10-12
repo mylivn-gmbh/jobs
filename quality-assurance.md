@@ -46,14 +46,6 @@ Join us on our mission to transform social media!
 - Barbeque parties on our rooftop terrace
 - A chill zone with a PlayStation, books and free drinks
 
-## Benefits
-- A modern, open-plan office in the heart of a thriving business district in Munich 
-- Small, well-structured teams with international colleagues 
-- Non-hierarchical structure and a fast decision-making process 
-- The opportunity to take part in developing a new social network 
-- Barbeque parties on our rooftop terrace 
-- A chill zone with a PlayStation, books and free drinks
-
 Send your application to talents@mylivn.com
 
 ## JOIN US!
