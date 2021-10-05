@@ -11,13 +11,14 @@ Our backend system represents a microservice architecture with strict domain bou
 
 Technologies we use in backend:
 
-- Languages: Scala (primary), Go (specific usecases), Python (scripting).
-- Databases: PostgreSQL, Redis.
-- Messaging and Stream Processing: Apache Kafka.
-- Search: Elasticsearch.
-- Delivery and Orchestration: Docker, Nomad, Consul.
-- Other services: AWS S3, AWS Rekognition.
-- CI & CD: GitLab + Bash & Python
+- Languages: Scala (primary), Go (specific usecases), Python (scripting).  
+- Frameworks/Libraries: ZIO, cats, Doobie.  
+- Databases: PostgreSQL, Redis.  
+- Messaging and Stream Processing: Apache Kafka, AWS SQS.  
+- Search: Elasticsearch.  
+- Delivery and Orchestration: Docker, AWS CDK, AWS Fargate.  
+- Other services: AWS S3, AWS Rekognition.  
+- CI & CD: GitLab + Bash & Python.  
 
 ## Your profile
 - 5+ years of Java/Scala development experience.
@@ -52,6 +53,7 @@ Technologies we use in backend:
 - The opportunity to take part in developing a new social network 
 - Barbeque parties on our rooftop terrace 
 - A chill zone with a PlayStation, books and free drinks
+- Possibility to work remotely
 
 Send your application to talents@mylivn.com
 
