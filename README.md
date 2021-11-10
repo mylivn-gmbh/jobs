@@ -2,7 +2,7 @@
 ## Mylivn
 #### Your Lifestyle Social Network
 
-![](assets/mockup_with_hand.png)
+![](assets/pic-github-min.jpg)
 
 We are a lifestyle social network where creators have the freedom to influence their own experience. Mylivn provides a place for everyone to run their own channel in a community where being active means being seen. 
 
